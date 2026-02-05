@@ -9,22 +9,24 @@
 ## 🎯 My Immediate Focus (Right Now)
 *What exactly should I be practicing today?*
 
-1.  **Stop saying "Good/Bad/Nice".**
-2.  **Replace 3 weak verbs** in every email/text I send today.
-3.  **Record 2 mins** at the end of the day answering: "What did I achieve today?" (using Strong Verbs).
+1.  **Day 2: The Adjective Swap.** (Next Session)
+2.  **Stop saying "Good/Bad".**
+3.  **Use "Ensure" instead of "Make Sure" today.**
 
 ---
 
 ## 📊 Progress Stats
-- **Days Practiced**: 0 / 112 (4 Months)
+- **Days Practiced**: 1 / 112 (4 Months)
 - **Recordings Made**: 0
-- **Real Conversations Logged**: 0
-- **Words Added to Bank**: 0
+- **Real Conversations Logged**: 1 (Verb Drill)
+- **Words Added to Bank**: 4 (Connect, Develop, Ensure, Execute)
 
 ---
 
 ## 🏆 Recent Wins
 *(Log your small victories here to keep momentum)*
+- [x] Completed Day 1: The Verb Audit.
+- [x] Learned "Ensure" vs "Make Sure".
 - [ ] Created this repository.
 - [ ] Committed to the 4-Month Roadmap.
 
