@@ -20,35 +20,35 @@ Stop using "Neutral" (Boring) words. Use "Intense" (Charged) words to create emo
 
 ### 1. The "Good" Scale
 
-| Language | Neutral / Boring (Avoid) | Intense / Charged (Use This) | Vibe / Meaning |
+| Language | Neutral / Boring (Avoid) | Intense / "Filmy" (Use This) | Vibe / Meaning |
 | :--- | :--- | :--- | :--- |
-| **English** | Good, Nice, Okay | **Outstanding, Exceptional, Phenomenal** | "Better than everyone else." |
-| **Marathi** | Changla (चांगला) | **Apratim (अप्रतिम), Utkrushta (उत्कृष्ट)** | "Unmatched excellence." |
-| **Hindi** | Accha (अच्छा), Thik (ठीक) | **Behtareen (बेहतरीन), Lajawaab (लाजवाब)** | "Without answer (Matchless)." |
+| **English** | Good, Nice, Okay | **Outstanding, Killer, Sick** | "Better than everyone else." |
+| **Marathi** | Changla (चांगला) | **Kadak (कडक), Ek Number (एक नंबर), Naad Khula (नाद खुळा)** | "Solid / Perfect." |
+| **Hindi** | Accha (अच्छा), Thik (ठीक) | **Zabardast (ज़बरदस्त), Bawaal (बवाल), Faadu (फाडू)** | "Mind-blowing impact." |
 
 ### 2. The "Bad" Scale
 
-| Language | Neutral / Boring (Avoid) | Intense / Charged (Use This) | Vibe / Meaning |
+| Language | Neutral / Boring (Avoid) | Intense / "Filmy" (Use This) | Vibe / Meaning |
 | :--- | :--- | :--- | :--- |
-| **English** | Bad, Not good | **Dreadful, Atrocious, Catastrophic** | "Disaster / Painful." |
-| **Marathi** | Vait (वाईट) | **Bhayanak (भयानक), Kamin (कमी)** | "Terrible / Low quality." |
-| **Hindi** | Bura (बुरा), Kharab (खराब) | **Khaufnak (खौफनाक), Ghatiya (घटिया)** | "Scary / Cheap quality." |
+| **English** | Bad, Not good | **Trash, Garbage, Nightmare** | "Disaster / Painful." |
+| **Marathi** | Vait (वाईट) | **Bhangar (भंगार), Faltu (फालतू), Chillar (चिल्लर)** | "Scrap quality / Worthless." |
+| **Hindi** | Bura (बुरा), Kharab (खराब) | **Bakwaas (बकवास), Raddi (रद्दी), Third Class (थर्ड क्लास)** | "Nonsense / Waste." |
 
 ### 3. The "Big/Huge" Scale
 
-| Language | Neutral / Boring (Avoid) | Intense / Charged (Use This) | Vibe / Meaning |
+| Language | Neutral / Boring (Avoid) | Intense / "Filmy" (Use This) | Vibe / Meaning |
 | :--- | :--- | :--- | :--- |
-| **English** | Big, Huge | **Colossal, Massive, Gigantic** | "Impossible to ignore." |
-| **Marathi** | Motha (मोठा) | **Prachanda (प्रचंड), Bhavya (भव्य)** | "Fierce / Grand." |
-| **Hindi** | Bada (बड़ा) | **Vishal (विशाल), Aaleeshan (आलीशान)** | "Grand / Royal." |
+| **English** | Big, Huge | **Massive, Monster, Beast** | "Impossible to ignore." |
+| **Marathi** | Motha (मोठा) | **Bhari (भारी), Adhadand (आधादांड)** | "Heavy / Huge." |
+| **Hindi** | Bada (बड़ा) | **Tagda (तगड़ा), Bhaari (भारी)** | "Strong / Powerful." |
 
 ### 4. The "Happy" Scale
 
-| Language | Neutral / Boring (Avoid) | Intense / Charged (Use This) | Vibe / Meaning |
+| Language | Neutral / Boring (Avoid) | Intense / "Filmy" (Use This) | Vibe / Meaning |
 | :--- | :--- | :--- | :--- |
-| **English** | Happy, Glad | **Ecstatic, Thrilled, Delighted** | "Bursting with joy." |
-| **Marathi** | Anandi (आनंदी) | **Prafullit (प्रफुल्लित), Ullhasit (उल्हासित)** | "Blooming with joy." |
-| **Hindi** | Khush (खुश) | **Gadgad (गदगद), Prasanna (प्रसन्न)** | "Soul-level happiness." |
+| **English** | Happy, Glad | **Pumped, Buzzed, Over the Moon** | "High energy." |
+| **Marathi** | Anandi (आनंदी) | **Maja Aali (मजा आली), Hawa (हवा), Jallosh (जल्लोष)** | "Pure fun / Swag." |
+| **Hindi** | Khush (खुश) | **Maza aa gaya (मज़ा आ गया), Dil khush (दिल खुश)** | "Soul-level satisfaction." |
 
 ---
 
