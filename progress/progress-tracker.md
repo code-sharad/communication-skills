@@ -7,12 +7,19 @@
 
 ## Weekly Progress Overview
 
+### Week 0: Foundation & Basics ⬜
+**Status**: In Progress
+- [ ] Strong Verbs Practice
+- [ ] No "Good/Bad" Challenge
+- [ ] SVO Sentence Structure
+
 ### Week 1: Thought Organization ⬜
 **Dates**: _____ to _____  
 **Status**: Not Started / In Progress / Completed
 
 **Daily Practice Days**: __ / 7  
 **Exercises Completed**: __ / 7
+**Speakers Analyzed**: __ / 2 (Goal: 2 per week)
 
 **Key Achievements**:
 -
@@ -32,6 +39,7 @@
 
 **Daily Practice Days**: __ / 7  
 **New Words Learned**: English ___ | Marathi ___ | Hindi ___
+**Speakers Analyzed**: __ / 2
 
 **Key Achievements**:
 -
