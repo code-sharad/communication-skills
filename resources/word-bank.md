@@ -14,152 +14,91 @@ A living collection of words, transformed from simple lists into **contextual we
 
 ---
 
-## 🔥 Trilingual Vibe Scale (Neutral vs. Intense)
+## 🌐 The Master Vocabulary Matrix
+*Choose the right word for the right room.*
 
-Stop using "Neutral" (Boring) words. Use "Intense" (Charged) words to create emotion.
+### 1. 💼 Professional Mode (Office, Clients, Interviews)
+*Goal: Sound competent, clear, and action-oriented.*
 
-### 1. The "Good" Scale
-
-| Language | Neutral / Boring (Avoid) | Intense / Friendly & Impactful (Pick Your Favorite) | Vibe / Meaning |
+| English (Power Words) | Hindi (Formal/Respectful) | Marathi (Formal/Respectful) | Context / When to use |
 | :--- | :--- | :--- | :--- |
-| **English** | Good, Nice, Okay | **Fantastic, Excellent, Impressive, Outstanding, Top-notch, Superb** | "High standard / Great quality." |
-| **Marathi** | Changla (चांगला) | **Kadak (कडक), Ek Number (एक नंबर), Naad Khula (नाद खुळा)** | "Solid / Perfect." |
-| **Hindi** | Accha (अच्छा), Thik (ठीक) | **Zabardast (ज़बरदस्त), Bawaal (बवाल), Faadu (फाडू)** | "Mind-blowing impact." |
+| **Align** | **Sehmat hona** (सहमत होना) | **Ekmat asne** (एकमत असणे) | When agreeing on a plan. "Let's **align** on the goals." |
+| **Execute** | **Amal mein lana** (अमल में लाना) | **Amal-bajavni** (अंमलबजावणी) | Doing the work. "We need to **execute** this perfectly." |
+| **Facilitate** | **Aasaan banana** (आसान बनाना) | **Madat/Sahakarya** (सहकार्य) | Helping a process run smooth. "I will **facilitate** the meeting." |
+| **Perspective** | **Nazariya** (नज़रिया) | **Drushtikon** (दृष्टिकोन) | Giving an opinion. "From my **perspective**, this is risky." |
+| **Substantial** | **Mazboot / Bada** (मज़बूत) | **Thos** (ठोस) | Something big/important. "We made **substantial** progress." |
 
-### 2. The "Bad" Scale
+### 2. 🕶️ Casual Mode (Hangouts, Close Colleagues)
+*Goal: Sound cool, relaxed, and "in the flow".*
 
-| Language | Neutral / Boring (Avoid) | Intense / Friendly & Impactful (Pick Your Favorite) | Vibe / Meaning |
+| English (Cool/Relaxed) | Hindi (Street/Natural) | Marathi (Local/Desi) | Context / When to use |
 | :--- | :--- | :--- | :--- |
-| **English** | Bad, Not good | **Terrible, Disappointing, Rough, Awful, Subpar, Messy** | "Below standard / Painful." |
-| **Marathi** | Vait (वाईट) | **Bhangar (भंगार), Faltu (फालतू), Chillar (चिल्लर)** | "Scrap quality / Worthless." |
-| **Hindi** | Bura (बुरा), Kharab (खराब) | **Bakwaas (बकवास), Raddi (रद्दी), Third Class (थर्ड क्लास)** | "Nonsense / Waste." |
+| **Solid** | **Sahi hai** (सही है) | **Kadak** (कडक) | When something is good/reliable. "That plan is **solid**." |
+| **Chaos** | **Bawaal** (बवाल) | **Gondhal** (गोंधळ) | When things are messy/crazy. "It was absolute **chaos**." |
+| **Hectic** | **Bhaagam-bhaag** (भागम-भाग) | **Dhavpal** (धावपळ) | When you are very busy. "Today was **hectic**." |
+| **Sorted** | **Set hai** (सेट है) | **Vishay Cut** (विषय कट) | When a problem is solved. "Don't worry, it's **sorted**." |
+| **Tricky** | **Tedha** (टेढ़ा) | **Kichkat** (किचकट) | When something is difficult. "This code is a bit **tricky**." |
 
-### 3. The "Big/Huge" Scale
+### 3. 😊 Friendly Mode (Socializing, Networking, Dates)
+*Goal: Sound warm, inviting, and positive.*
 
-| Language | Neutral / Boring (Avoid) | Intense / Friendly & Impactful (Pick Your Favorite) | Vibe / Meaning |
+| English (Warm/Kind) | Hindi (Polite/Sweet) | Marathi (Warm/Sweet) | Context / When to use |
 | :--- | :--- | :--- | :--- |
-| **English** | Big, Huge | **Massive, Major, Significant, Enormous, Substantial, Giant** | "Impossible to ignore." |
-| **Marathi** | Motha (मोठा) | **Bhari (भारी), Adhadand (आधादांड)** | "Heavy / Huge." |
-| **Hindi** | Bada (बड़ा) | **Tagda (तगड़ा), Bhaari (भारी)** | "Strong / Powerful." |
+| **Fantastic** | **Badhiya** (बढ़िया) | **Chan** (छान) | High energy praise. "That sounds **fantastic**!" |
+| **Appreciate** | **Kadr karna** (कद्र करना) | **Kautuk** (कौतुक) | Showing gratitude. "I really **appreciate** your time." |
+| **Glad** | **Khushi hui** (खुशी हुई) | **Anand zhala** (आनंद झाला) | Meeting someone/Hearing news. "I'm so **glad** you came." |
+| **Curious** | **Jigyasa** (जिज्ञासा) | **Utsuk** (उत्सुक) | Showing interest politely. "I'm **curious** about your journey." |
+| **Charming** | **Dilchasp** (दिलचस्प) | **Manmohak** (मनमोहक) | Complimenting a place or person. "This cafe is **charming**." |
 
-### 4. The "Happy" Scale
+### 4. ❤️ Emotional Mode (Deep Conversations, Family)
+*Goal: Sound vulnerable, authentic, and real.*
 
-| Language | Neutral / Boring (Avoid) | Intense / Friendly & Impactful (Pick Your Favorite) | Vibe / Meaning |
+| English (Deep/Real) | Hindi (Heartfelt) | Marathi (Heartfelt) | Context / When to use |
 | :--- | :--- | :--- | :--- |
-| **English** | Happy, Glad | **Thrilled, Excited, Delighted, Overjoyed, Pumped, Grateful** | "High energy / Satisfaction." |
-| **Marathi** | Anandi (आनंदी) | **Maja Aali (मजा आली), Hawa (हवा), Jallosh (जल्लोष)** | "Pure fun / Swag." |
-| **Hindi** | Khush (खुश) | **Maza aa gaya (मज़ा आ गया), Dil khush (दिल खुश)** | "Soul-level satisfaction." |
+| **Overwhelmed** | **Bhaaripan** (भारीपन) | **Dadap** (दडपण) | Too much pressure/emotion. "I feel a bit **overwhelmed**." |
+| **Grateful** | **Shukraguzar** (शुक्रगुज़ार) | **Runa** (ऋण / ऋणी) | Deep thanks. "I am **grateful** for your help." |
+| **Drained** | **Nichod** (निचोड़) | **Thakva** (थकवा) | Empty of energy. "Emotionally, I am **drained**." |
+| **Content** | **Santusht** (संतुष्ट) | **Samadhan** (समाधान) | Peaceful happiness. "I feel truly **content** now." |
+| **Frustrated** | **Pareshan** (परेशान) | **Trasta** (त्रस्त) | Angry because you are blocked. "I'm **frustrated** with this delay." |
+
+### 5. 💬 Messaging/Chatting Mode (WhatsApp, Slack, DM)
+*Goal: Short, punchy, and clear. No long sentences.*
+
+| English (Short/Punchy) | Hindi (Chat) | Marathi (Chat) | Context / When to use |
+| :--- | :--- | :--- | :--- |
+| **Spot on** | **Bilkul sahi** | **Agdi barobar** | Agreeing exactly. |
+| **I'm down** | **Taiyaar hoon** | **Mi ready ahe** | Saying yes to plans. |
+| **Noted** | **Samjha** | **Kalala** | Confirming you read the message. |
+| **On it** | **Kar raha hu** | **Kartoy** | "I am doing it right now." |
+| **My bad** | **Galti hui** | **Chukla** | Casual apology. "Sorry, **my bad**." |
+| **Heads up** | **Dhyan dena** | **Laksha asudya** | Warning/Notification. "**Heads up**, meeting in 5." |
 
 ---
 
-## 🧠 Contextual Word Mastery
-*Know exactly WHICH synonym to use and WHY.*
+## 🧠 Contextual Wisdom (Usage Guide)
 
-### 1. Concept: "To CHANGE" (Modifying something)
+### 1. Concept: "To CHANGE"
+*   **Modify**: Formal. "Please **modify** the doc."
+*   **Pivot**: Business Strategy. "We need to **pivot**."
+*   **Transform**: Huge change. "AI will **transform** us."
 
-| Word | The Vibe/Nuance | When to Use (Scenario) | Example Sentence |
-| :--- | :--- | :--- | :--- |
-| **Adjust** | Minor, precise, technical. | Fixing a small detail like a schedule, a setting, or a tie. | "I need to **adjust** the meeting time by 15 minutes." |
-| **Modify** | Formal, moderate change. | Changing a document, a plan, or a design without rewriting it fully. | "Please **modify** the proposal to include the new budget." |
-| **Transform** | Huge, complete change. | Talking about vision, major life changes, or renovations. | "AI will **transform** how we write code." |
-| **Pivot** | Sharp directional change. | Startup/Business context when strategy fails and you move to a new one. | "The product wasn't selling, so we **pivoted** to a B2B model." |
-| **Refine** | Polishing, improving quality. | When something is "good" but you want it "perfect". | "Let's **refine** this pitch deck before the investor call." |
-
-### 2. Concept: "To HELP" (Assisting others)
-
-| Word | The Vibe/Nuance | When to Use (Scenario) | Example Sentence |
-| :--- | :--- | :--- | :--- |
-| **Assist** | Professional, subordinate. | You are the helper, they are the lead. Standard office term. | "Can you **assist** me with this report?" |
-| **Support** | Emotional or foundational. | Backing someone up, either technically or emotionally. | "I will **support** your decision in the meeting." |
-| **Facilitate** | "Making it easier". | removing barriers. Use when running meetings or processes. | "I will **facilitate** the brainstorming session." |
-| **Enable** | Empowering. | Giving someone the tools/power to do it themselves. | "This tool **enables** developers to ship faster." |
-| **Guide** | Wisdom-based. | Showing the path, mentoring. | "Can you **guide** me through this complex architecture?" |
-
-### 3. Concept: "To START" (Beginning something)
-
-| Word | The Vibe/Nuance | When to Use (Scenario) | Example Sentence |
-| :--- | :--- | :--- | :--- |
-| **Initiate** | Formal, mechanical. | Starting a process, a transfer, or a formal investigation. | "I have **initiated** the refund process." |
-| **Launch** | Energetic, public. | Releasing a product, a campaign, or a rocket. High visibility. | "We are **launching** the new website on Friday." |
-| **Spearhead** | Leadership, aggressive. | Leading a charge/project. YOU are the one in front. | "She will **spearhead** the marketing campaign." |
-| **Commence** | Very formal, ceremonial. | Weddings, legal proceedings, grand events. (Don't use for lunch). | "The ceremony will **commence** at noon." |
-| **Establish** | Creating stability. | Setting up ground rules, a business foundation, or a relationship. | "We need to **establish** clear boundaries." |
-
-### 4. Concept: "To STOP" (Ending something)
-
-| Word | The Vibe/Nuance | When to Use (Scenario) | Example Sentence |
-| :--- | :--- | :--- | :--- |
-| **Halt** | Abrupt, temporary. | Production lines, movement, immediate danger. | "Production was **halted** due to a safety issue." |
-| **Terminate** | Final, harsh, legal. | Firing employees, ending contracts, killing processes. | "We had to **terminate** the contract due to non-compliance." |
-| **Cease** | Formal, legal. | "Cease and Desist". Stopping a behavior or operation permanently. | "The company will **cease** operations in that region." |
-| **Pause** | Temporary, intentional. | Taking a break to think or wait. | "Let's **pause** this discussion until we have more data." |
-| **Conclude** | Polished, wrapping up. | Finishing a meeting, a speech, or a deal smoothly. | "I'd like to **conclude** by thanking everyone." |
-
-### 5. Concept: "To THINK" (Mental work)
-
-| Word | The Vibe/Nuance | When to Use (Scenario) | Example Sentence |
-| :--- | :--- | :--- | :--- |
-| **Analyze** | Breaking things down. | Looking at data, bugs, or problems to find the root cause. | "I need to **analyze** the logs to find the error." |
-| **Consider** | Weighing options. | Deciding between A and B. Polite rejection ("We will consider it"). | "We will **consider** your application." |
-| **Envision** | Seeing the future. | Strategy, long-term goals, dreams. | "I **envision** a world where communication is seamless." |
-| **Reflect** | Looking backward. | Learning from the past, personal growth. | "Take a moment to **reflect** on what went wrong." |
-| **Strategize** | Planning to win. | Game plans, business moves, overcoming competition. | "We need to **strategize** how to enter the market." |
+### 2. Concept: "To HELP"
+*   **Assist**: Professional. "Can you **assist**?"
+*   **Enable**: Empowering. "This **enables** us."
+*   **Facilitate**: Removing barriers. "I will **facilitate**."
 
 ---
 
 ## ✨ Adjective Wisdom (Describing things)
 
-### 1. Instead of "BIG"
-| Word | Scenario | Example |
-| :--- | :--- | :--- |
-| **Massive** | Physical size or heavy weight. | "The server load is **massive**." |
-| **Substantial** | Value, money, or importance. | "We made a **substantial** profit." |
-| **Vast** | Area, knowledge, or scope (wide). | "He has **vast** experience in Java." |
-| **Extensive** | Detailed, covering many points. | "The documentation is **extensive**." |
+### Instead of "BIG"
+*   **Massive** (Physical size)
+*   **Substantial** (Value/Money)
+*   **Tagda** (Hindi - Strength)
+*   **Bhari** (Marathi - Impact)
 
-### 2. Instead of "IMPORTANT"
-| Word | Scenario | Example |
-| :--- | :--- | :--- |
-| **Crucial** | If you miss this, you fail. (Life/Death of project). | "It is **crucial** we hit this deadline." |
-| **Vital** | Essential for life/survival. | "Feedback is **vital** for growth." |
-| **Fundamental** | The base/foundation. | "Trust is **fundamental** to our team." |
-| **Key** | A major piece, but maybe not the whole thing. | "A **key** factor in our success." |
+### Instead of "IMPORTANT"
+*   **Crucial** (Life/Death)
+*   **Vital** (Survival)
+*   **Key** (Major piece)
 
-### 3. Instead of "HARD"
-| Word | Scenario | Example |
-| :--- | :--- | :--- |
-| **Challenging** | Hard, but I can grow from it. (Positive spin). | "This project is **challenging**." |
-| **Complex** | Hard because it has many parts. (Intellectual). | "The architecture is **complex**." |
-| **Demanding** | Hard because it takes energy/time. | "The client is very **demanding**." |
-| **Arduous** | Very hard, exhausting, painful. | "It was an **arduous** journey." |
-
----
-
-## ⚡ Charismatic Casual (Sharp & Effortless)
-*Use these to sound confident and relaxed. Works for texts, drinks, and casual emails.*
-
-| Concept | The Boring Word | The Charismatic Word | Example Sentence |
-| :--- | :--- | :--- | :--- |
-| **Agreement** | Yes / Okay | **Spot on / Solid / I'm down** | "That idea is **spot on**." / "Lunch at 1? **I'm down**." |
-| **Praise** | Good / Great | **Stellar / Top-tier / Electric** | "The vibe tonight is **electric**." / "He did a **stellar** job." |
-| **Problem** | Bad / Hard | **Rough / Tricky / Chaos** | "The traffic was absolute **chaos**." / "That sounds **rough**." |
-| **Understanding** | I get it | **Loud and clear / Makes sense** | "I hear you, **loud and clear**." |
-| **Certainty** | Definitely | **100% / Without a doubt** | "Are you coming? **100%**." |
-| **Persuasion** | Believe me | **Trust me / Mark my words** | "**Mark my words**, this will work." |
-| **Action** | Let's do it | **Let's roll / Let's dive in** | "Ready? **Let's roll**." |
-
----
-
-## ❤️ Emotional Wisdom (Describing feelings)
-
-*See `resources/word-bank.md` (Emotional Wheel section) for the base list. Here is the wisdom:*
-
-*   **Frustrated vs. Disappointed**:
-    *   Use **Frustrated** when you are *blocked* from doing something (Active anger).
-    *   Use **Disappointed** when the *result* was bad (Passive sadness).
-*   **Anxious vs. Nervous**:
-    *   Use **Nervous** for a specific event (a test, a date).
-    *   Use **Anxious** for a vague, lingering fear of the future.
-*   **Content vs. Happy**:
-    *   Use **Happy** for a spike of joy.
-    *   Use **Content** for a steady state of peace (often better than happy).
