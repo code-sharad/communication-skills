@@ -135,21 +135,18 @@ Stop using "Neutral" (Boring) words. Use "Intense" (Charged) words to create emo
 
 ---
 
-## ⚡ Gen Z & Charismatic Slang (Casual/Friends Only)
-*Use these to sound current, relaxed, and "in the mix". Do NOT use these in formal emails.*
+## ⚡ Charismatic Casual (Sharp & Effortless)
+*Use these to sound confident and relaxed. Works for texts, drinks, and casual emails.*
 
-| Word | Meaning | Context/Vibe | Example |
+| Concept | The Boring Word | The Charismatic Word | Example Sentence |
 | :--- | :--- | :--- | :--- |
-| **Vibe / Vibe Check** | The feeling/atmosphere. | Checking if something feels right. | "I love the **vibe** of this cafe." / "He failed the **vibe check**." |
-| **Lowkey** | Kind of / Secretly. | Admitting something quietly. | "I **lowkey** want to leave early." |
-| **Highkey** | Really / Obviously. | Emphasizing a strong feeling. | "I **highkey** hate this traffic." |
-| **Bet** | "Yes" / "Agreed". | Confirming a plan instantly. | "Dinner at 8? **Bet**." |
-| **No Cap** | No lie / For real. | Emphasizing you are telling the truth. | "That was the best burger ever, **no cap**." |
-| **Mid** | Mediocre / Average. | Describing something underwhelming/boring. | "Honestly, the movie was **mid**." |
-| **W / L** | Win / Loss. | Celebrating success or admitting defeat. | "That's a huge **W** for the team." / "I took an **L** on that test." |
-| **Flex** | Showing off. | Playful calling out of bragging. | "Weird **flex**, but okay." |
-| **Ghost** | To stop replying. | Dating/Social context. | "Did she **ghost** you?" |
-| **Valid** | Reasonable / Makes sense. | Validating someone's opinion. | "That's a **valid** point, bro." |
+| **Agreement** | Yes / Okay | **Spot on / Solid / I'm down** | "That idea is **spot on**." / "Lunch at 1? **I'm down**." |
+| **Praise** | Good / Great | **Stellar / Top-tier / Electric** | "The vibe tonight is **electric**." / "He did a **stellar** job." |
+| **Problem** | Bad / Hard | **Rough / Tricky / Chaos** | "The traffic was absolute **chaos**." / "That sounds **rough**." |
+| **Understanding** | I get it | **Loud and clear / Makes sense** | "I hear you, **loud and clear**." |
+| **Certainty** | Definitely | **100% / Without a doubt** | "Are you coming? **100%**." |
+| **Persuasion** | Believe me | **Trust me / Mark my words** | "**Mark my words**, this will work." |
+| **Action** | Let's do it | **Let's roll / Let's dive in** | "Ready? **Let's roll**." |
 
 ---
 
