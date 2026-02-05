@@ -135,6 +135,24 @@ Stop using "Neutral" (Boring) words. Use "Intense" (Charged) words to create emo
 
 ---
 
+## ⚡ Gen Z & Charismatic Slang (Casual/Friends Only)
+*Use these to sound current, relaxed, and "in the mix". Do NOT use these in formal emails.*
+
+| Word | Meaning | Context/Vibe | Example |
+| :--- | :--- | :--- | :--- |
+| **Vibe / Vibe Check** | The feeling/atmosphere. | Checking if something feels right. | "I love the **vibe** of this cafe." / "He failed the **vibe check**." |
+| **Lowkey** | Kind of / Secretly. | Admitting something quietly. | "I **lowkey** want to leave early." |
+| **Highkey** | Really / Obviously. | Emphasizing a strong feeling. | "I **highkey** hate this traffic." |
+| **Bet** | "Yes" / "Agreed". | Confirming a plan instantly. | "Dinner at 8? **Bet**." |
+| **No Cap** | No lie / For real. | Emphasizing you are telling the truth. | "That was the best burger ever, **no cap**." |
+| **Mid** | Mediocre / Average. | Describing something underwhelming/boring. | "Honestly, the movie was **mid**." |
+| **W / L** | Win / Loss. | Celebrating success or admitting defeat. | "That's a huge **W** for the team." / "I took an **L** on that test." |
+| **Flex** | Showing off. | Playful calling out of bragging. | "Weird **flex**, but okay." |
+| **Ghost** | To stop replying. | Dating/Social context. | "Did she **ghost** you?" |
+| **Valid** | Reasonable / Makes sense. | Validating someone's opinion. | "That's a **valid** point, bro." |
+
+---
+
 ## ❤️ Emotional Wisdom (Describing feelings)
 
 *See `resources/word-bank.md` (Emotional Wheel section) for the base list. Here is the wisdom:*
