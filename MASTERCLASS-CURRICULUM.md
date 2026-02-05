@@ -12,9 +12,20 @@
 
 ---
 
-## Course Structure (12 Weeks)
+## Course Structure (13 Weeks)
 
-### Phase 1: Foundation (Weeks 1-4)
+### Phase 0: The Foundation (Week 0)
+**Focus**: Vocabulary, Precision, and Sentence Construction
+
+#### Week 0: Foundations & Basics
+- **Verbs**: Replacing weak verbs (do, make, get) with strong ones
+- **Adjectives**: Moving beyond "good", "bad", "nice"
+- **Precision**: Removing "very", "thing", "stuff"
+- **Structure**: Mastering Subject-Verb-Object (SVO) sentences
+- **Linking**: Using simple conjunctions (and, but, so, because)
+- **Multilingual**: Mapping concepts across English, Marathi, Hindi
+
+### Phase 1: Thought Organization (Weeks 1-4)
 **Focus**: Building blocks of clear communication
 
 #### Week 1: Thought Organization
