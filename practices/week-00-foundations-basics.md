@@ -129,9 +129,29 @@ Pick 3 words. Write a sentence for each in English, Marathi, and Hindi. Focus on
 
 ---
 
+## Day 8 (Bonus): Expressing Emotions Clearly
+Most people just say "I am sad" or "I am angry". This is vague.
+
+**Formula**: "I feel [Precise Emotion] because [Specific Reason]."
+
+- **Vague**: "I am mad."
+- **Clear**: "I feel **frustrated** because **I wasn't consulted on this decision**."
+
+- **Vague**: "I am happy."
+- **Clear**: "I feel **relieved** because **the project is finally finished**."
+
+### Practice
+Write 3 sentences using the formula above for these situations:
+1. A friend canceled plans last minute. (Don't just use "mad")
+2. You finished a difficult task. (Don't just use "happy")
+3. You made a mistake at work. (Don't just use "bad")
+
+---
+
 ## Week 0 Checklist
 - [ ] I learned 5 new strong verbs.
 - [ ] I stopped using "very" for one day.
 - [ ] I described something without saying "good" or "bad".
 - [ ] I wrote 10 clear Subject-Verb-Object sentences.
 - [ ] I connected sentences using "and", "but", "so", "because".
+- [ ] I practiced the "Three Modes" (Professional, Casual, Emotional).

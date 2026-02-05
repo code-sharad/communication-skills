@@ -44,6 +44,39 @@ Words I am actively trying to stop using.
 
 ---
 
+## ❤️ Emotional Vocabulary Wheel
+Don't just say "I'm sad" or "I'm happy". Drill down to the *real* feeling.
+
+### If you feel **HAPPY**...
+- **Excited** (anticipating something good)
+- **Content** (peaceful satisfaction)
+- **Grateful** (thankful for something)
+- **Proud** (satisfied with an achievement)
+- **Relieved** (worry is gone)
+
+### If you feel **SAD**...
+- **Disappointed** (expectations weren't met)
+- **Lonely** (need connection)
+- **Hurt** (emotional pain from others)
+- **Grieving** (loss of something/someone)
+- **Melancholic** (quiet, deep sadness)
+
+### If you feel **ANGRY**...
+- **Frustrated** (blocked from a goal)
+- **Annoyed** (minor irritation)
+- **Resentful** (feeling treated unfairly over time)
+- **Defensive** (feeling attacked)
+- **Outraged** (shocked by injustice)
+
+### If you feel **AFRAID**...
+- **Anxious** (worry about uncertain future)
+- **Insecure** (doubting yourself)
+- **Overwhelmed** (too much to handle)
+- **Hesitant** (holding back)
+- **Terrified** (extreme fear)
+
+---
+
 ## 🔗 Transition & Linking Words
 
 **To Add Information**: Additionally, Furthermore, Moreover, Also
